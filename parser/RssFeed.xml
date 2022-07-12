@@ -1,0 +1,2177 @@
+<feed>
+<title>Jenkins:All (all builds)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/"/>
+<updated>2022-07-06T13:40:29Z</updated>
+<author>
+</author>
+<id>urn:uuid:903deee0-7bfa-11db-9fe1-0800200c9a66</id>
+<entry>
+<title>
+samast-scheduling-service » PR-26 #3 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/PR-26/3/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/PR-26:3
+</id>
+<published>2022-07-06T13:40:29Z</published>
+<updated>2022-07-06T13:40:29Z</updated>
+</entry>
+<entry>
+<title>samast-util » feature/bleeding-edge #3 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/samast-util/job/feature%252Fbleeding-edge/3/"/>
+<id>
+tag:hudson.dev.java.net,2022:samast-util/feature%2Fbleeding-edge:3
+</id>
+<published>2022-07-06T13:18:59Z</published>
+<updated>2022-07-06T13:18:59Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » feature/bleeding-edge #17 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/feature%252Fbleeding-edge/17/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/feature%2Fbleeding-edge:17
+</id>
+<published>2022-07-06T13:13:54Z</published>
+<updated>2022-07-06T13:13:54Z</updated>
+</entry>
+<entry>
+<title>samast-util » PR-3 #1 (broken since this build)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/samast-util/job/PR-3/1/"/>
+<id>tag:hudson.dev.java.net,2022:samast-util/PR-3:1</id>
+<published>2022-07-06T13:04:09Z</published>
+<updated>2022-07-06T13:04:09Z</updated>
+</entry>
+<entry>
+<title>am-wind-analytics » qa #198 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/am-wind-analytics/job/qa/198/"/>
+<id>
+tag:hudson.dev.java.net,2022:am-wind-analytics/qa:198
+</id>
+<published>2022-07-06T12:57:22Z</published>
+<updated>2022-07-06T12:57:22Z</updated>
+</entry>
+<entry>
+<title>samast-domain-object » PR-23 #3 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/PR-23/3/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/PR-23:3
+</id>
+<published>2022-07-06T12:49:44Z</published>
+<updated>2022-07-06T12:49:44Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » feature/SAM-34-SLDC-Registration-Dashboard #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/feature%252FSAM-34-SLDC-Registration-Dashboard/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/feature%2FSAM-34-SLDC-Registration-Dashboard:1
+</id>
+<published>2022-07-06T12:48:24Z</published>
+<updated>2022-07-06T12:48:24Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » PR-24 #3 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/PR-24/3/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/PR-24:3
+</id>
+<published>2022-07-06T12:42:08Z</published>
+<updated>2022-07-06T12:42:08Z</updated>
+</entry>
+<entry>
+<title>
+samast-entity » feature/SAM-152-2022_q2_06-sldc-view-edit-and-ap #1 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/samast-entity/job/feature%252FSAM-152-2022_q2_06-sldc-view-edit-and-ap/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:samast-entity/feature%2FSAM-152-2022_q2_06-sldc-view-edit-and-ap:1
+</id>
+<published>2022-07-06T12:41:44Z</published>
+<updated>2022-07-06T12:41:44Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » PR-26 #2 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/PR-26/2/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/PR-26:2
+</id>
+<published>2022-07-06T12:41:39Z</published>
+<updated>2022-07-06T12:41:39Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/bleeding-edge #30 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252Fbleeding-edge/30/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2Fbleeding-edge:30
+</id>
+<published>2022-07-06T12:39:37Z</published>
+<updated>2022-07-06T12:39:37Z</updated>
+</entry>
+<entry>
+<title>am-wind-analytics » qa #197 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/am-wind-analytics/job/qa/197/"/>
+<id>
+tag:hudson.dev.java.net,2022:am-wind-analytics/qa:197
+</id>
+<published>2022-07-06T12:31:03Z</published>
+<updated>2022-07-06T12:31:03Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #50 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/50/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:50
+</id>
+<published>2022-07-06T10:48:48Z</published>
+<updated>2022-07-06T10:48:48Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #49 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/49/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:49
+</id>
+<published>2022-07-06T10:27:08Z</published>
+<updated>2022-07-06T10:27:08Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » PR-24 #2 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/PR-24/2/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/PR-24:2
+</id>
+<published>2022-07-06T10:12:21Z</published>
+<updated>2022-07-06T10:12:21Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » PR-26 #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/PR-26/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/PR-26:1
+</id>
+<published>2022-07-06T10:11:46Z</published>
+<updated>2022-07-06T10:11:46Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/bleeding-edge #29 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252Fbleeding-edge/29/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2Fbleeding-edge:29
+</id>
+<published>2022-07-06T10:11:00Z</published>
+<updated>2022-07-06T10:11:00Z</updated>
+</entry>
+<entry>
+<title>job-tear-down-executor #3293 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/job-tear-down-executor/3293/"/>
+<id>
+tag:hudson.dev.java.net,2022:job-tear-down-executor:3293
+</id>
+<published>2022-07-06T10:10:28Z</published>
+<updated>2022-07-06T10:10:28Z</updated>
+</entry>
+<entry>
+<title>job-tear-down-executor #3292 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/job-tear-down-executor/3292/"/>
+<id>
+tag:hudson.dev.java.net,2022:job-tear-down-executor:3292
+</id>
+<published>2022-07-06T10:09:49Z</published>
+<updated>2022-07-06T10:09:49Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » PR-39 #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/PR-39/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/PR-39:1
+</id>
+<published>2022-07-06T10:08:26Z</published>
+<updated>2022-07-06T10:08:26Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #48 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/48/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:48
+</id>
+<published>2022-07-06T10:07:01Z</published>
+<updated>2022-07-06T10:07:01Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » PR-38 #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/PR-38/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/PR-38:1
+</id>
+<published>2022-07-06T09:54:30Z</published>
+<updated>2022-07-06T09:54:30Z</updated>
+</entry>
+<entry>
+<title>am-admin-api » qa #15 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/am-admin-api/job/qa/15/"/>
+<id>tag:hudson.dev.java.net,2022:am-admin-api/qa:15</id>
+<published>2022-07-06T09:36:20Z</published>
+<updated>2022-07-06T09:36:20Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #47 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/47/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:47
+</id>
+<published>2022-07-06T09:15:10Z</published>
+<updated>2022-07-06T09:15:10Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/bleeding-edge #28 (back to normal)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252Fbleeding-edge/28/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2Fbleeding-edge:28
+</id>
+<published>2022-07-06T09:04:47Z</published>
+<updated>2022-07-06T09:04:47Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » PR-37 #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/PR-37/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/PR-37:1
+</id>
+<published>2022-07-06T09:04:29Z</published>
+<updated>2022-07-06T09:04:29Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/bleeding-edge #27 (aborted)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252Fbleeding-edge/27/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2Fbleeding-edge:27
+</id>
+<published>2022-07-06T09:02:31Z</published>
+<updated>2022-07-06T09:02:31Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » PR-25 #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/PR-25/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/PR-25:1
+</id>
+<published>2022-07-06T08:56:53Z</published>
+<updated>2022-07-06T08:56:53Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/SAM-134_Injection_schedule_punching_screen_for_OA_genertor2 #2 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252FSAM-134_Injection_schedule_punching_screen_for_OA_genertor2/2/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2FSAM-134_Injection_schedule_punching_screen_for_OA_genertor2:2
+</id>
+<published>2022-07-06T08:54:00Z</published>
+<updated>2022-07-06T08:54:00Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/SAM-134_Injection_schedule_punching_screen_for_OA_generator3 #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252FSAM-134_Injection_schedule_punching_screen_for_OA_generator3/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2FSAM-134_Injection_schedule_punching_screen_for_OA_generator3:1
+</id>
+<published>2022-07-06T08:53:33Z</published>
+<updated>2022-07-06T08:53:33Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » feature/bleeding-edge #16 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/feature%252Fbleeding-edge/16/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/feature%2Fbleeding-edge:16
+</id>
+<published>2022-07-06T08:06:21Z</published>
+<updated>2022-07-06T08:06:21Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » PR-24 #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/PR-24/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/PR-24:1
+</id>
+<published>2022-07-06T07:54:27Z</published>
+<updated>2022-07-06T07:54:27Z</updated>
+</entry>
+<entry>
+<title>job-tear-down-executor #3291 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/job-tear-down-executor/3291/"/>
+<id>
+tag:hudson.dev.java.net,2022:job-tear-down-executor:3291
+</id>
+<published>2022-07-06T07:51:55Z</published>
+<updated>2022-07-06T07:51:55Z</updated>
+</entry>
+<entry>
+<title>samast-domain-object » PR-23 #2 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/PR-23/2/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/PR-23:2
+</id>
+<published>2022-07-06T07:42:27Z</published>
+<updated>2022-07-06T07:42:27Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » PR-22 #3 (broken since build #2)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/PR-22/3/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/PR-22:3
+</id>
+<published>2022-07-06T07:42:07Z</published>
+<updated>2022-07-06T07:42:07Z</updated>
+</entry>
+<entry>
+<title>am-soilingloss-api » qa #78 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/am-soilingloss-api/job/qa/78/"/>
+<id>
+tag:hudson.dev.java.net,2022:am-soilingloss-api/qa:78
+</id>
+<published>2022-07-06T07:08:41Z</published>
+<updated>2022-07-06T07:08:41Z</updated>
+</entry>
+<entry>
+<title>job-tear-down-executor #3290 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/job-tear-down-executor/3290/"/>
+<id>
+tag:hudson.dev.java.net,2022:job-tear-down-executor:3290
+</id>
+<published>2022-07-06T07:07:37Z</published>
+<updated>2022-07-06T07:07:37Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » PR-22 #2 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/PR-22/2/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/PR-22:2
+</id>
+<published>2022-07-06T07:02:26Z</published>
+<updated>2022-07-06T07:02:26Z</updated>
+</entry>
+<entry>
+<title>samast-domain-object » PR-23 #1 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/PR-23/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/PR-23:1
+</id>
+<published>2022-07-06T07:01:41Z</published>
+<updated>2022-07-06T07:01:41Z</updated>
+</entry>
+<entry>
+<title>am-soilingloss-api » qa #77 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/am-soilingloss-api/job/qa/77/"/>
+<id>
+tag:hudson.dev.java.net,2022:am-soilingloss-api/qa:77
+</id>
+<published>2022-07-06T06:54:53Z</published>
+<updated>2022-07-06T06:54:53Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/SAM-134_Injection_schedule_punching_screen_for_OA_genertor2 #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252FSAM-134_Injection_schedule_punching_screen_for_OA_genertor2/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2FSAM-134_Injection_schedule_punching_screen_for_OA_genertor2:1
+</id>
+<published>2022-07-06T06:47:26Z</published>
+<updated>2022-07-06T06:47:26Z</updated>
+</entry>
+<entry>
+<title>job-tear-down-executor #3289 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/job-tear-down-executor/3289/"/>
+<id>
+tag:hudson.dev.java.net,2022:job-tear-down-executor:3289
+</id>
+<published>2022-07-06T06:46:12Z</published>
+<updated>2022-07-06T06:46:12Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/bleeding-edge #26 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252Fbleeding-edge/26/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2Fbleeding-edge:26
+</id>
+<published>2022-07-06T06:46:06Z</published>
+<updated>2022-07-06T06:46:06Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #46 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/46/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:46
+</id>
+<published>2022-07-06T06:41:25Z</published>
+<updated>2022-07-06T06:41:25Z</updated>
+</entry>
+<entry>
+<title>job-tear-down-executor #3288 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/job-tear-down-executor/3288/"/>
+<id>
+tag:hudson.dev.java.net,2022:job-tear-down-executor:3288
+</id>
+<published>2022-07-06T06:39:24Z</published>
+<updated>2022-07-06T06:39:24Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/SAM-34-UI_Setup #8 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252FSAM-34-UI_Setup/8/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2FSAM-34-UI_Setup:8
+</id>
+<published>2022-07-06T06:31:21Z</published>
+<updated>2022-07-06T06:31:21Z</updated>
+</entry>
+<entry>
+<title>am-admin-api » qa #14 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/am-admin-api/job/qa/14/"/>
+<id>tag:hudson.dev.java.net,2022:am-admin-api/qa:14</id>
+<published>2022-07-06T06:23:41Z</published>
+<updated>2022-07-06T06:23:41Z</updated>
+</entry>
+<entry>
+<title>samast-domain-object » PR-22 #1 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/PR-22/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/PR-22:1
+</id>
+<published>2022-07-06T06:17:05Z</published>
+<updated>2022-07-06T06:17:05Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » feature/sam-135-2022_Q2_06CodingInjection-schedule-punching-screen-for-Open-access-generators #3 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/feature%252Fsam-135-2022_Q2_06CodingInjection-schedule-punching-screen-for-Open-access-generators/3/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/feature%2Fsam-135-2022_Q2_06CodingInjection-schedule-punching-screen-for-Open-access-generators:3
+</id>
+<published>2022-07-06T06:16:05Z</published>
+<updated>2022-07-06T06:16:05Z</updated>
+</entry>
+<entry>
+<title>job-tear-down-executor #3287 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/job-tear-down-executor/3287/"/>
+<id>
+tag:hudson.dev.java.net,2022:job-tear-down-executor:3287
+</id>
+<published>2022-07-06T06:14:33Z</published>
+<updated>2022-07-06T06:14:33Z</updated>
+</entry>
+<entry>
+<title>job-tear-down-executor #3286 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/job-tear-down-executor/3286/"/>
+<id>
+tag:hudson.dev.java.net,2022:job-tear-down-executor:3286
+</id>
+<published>2022-07-06T05:45:08Z</published>
+<updated>2022-07-06T05:45:08Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » feature/sam-134-2022_Q2_06CodingInjection-schedule-punching-screen-for-Open-access-generators #1 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/feature%252Fsam-134-2022_Q2_06CodingInjection-schedule-punching-screen-for-Open-access-generators/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/feature%2Fsam-134-2022_Q2_06CodingInjection-schedule-punching-screen-for-Open-access-generators:1
+</id>
+<published>2022-07-06T05:08:50Z</published>
+<updated>2022-07-06T05:08:50Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/SAM-134_Injection_schedule_punching_screen_for_OA_generators #3 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252FSAM-134_Injection_schedule_punching_screen_for_OA_generators/3/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2FSAM-134_Injection_schedule_punching_screen_for_OA_generators:3
+</id>
+<published>2022-07-06T04:50:20Z</published>
+<updated>2022-07-06T04:50:20Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #45 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/45/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:45
+</id>
+<published>2022-07-06T04:34:12Z</published>
+<updated>2022-07-06T04:34:12Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #44 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/44/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:44
+</id>
+<published>2022-07-06T04:29:23Z</published>
+<updated>2022-07-06T04:29:23Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/bleeding-edge #25 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252Fbleeding-edge/25/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2Fbleeding-edge:25
+</id>
+<published>2022-07-06T03:53:36Z</published>
+<updated>2022-07-06T03:53:36Z</updated>
+</entry>
+<entry>
+<title>job-tear-down-executor #3285 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/job-tear-down-executor/3285/"/>
+<id>
+tag:hudson.dev.java.net,2022:job-tear-down-executor:3285
+</id>
+<published>2022-07-06T03:51:24Z</published>
+<updated>2022-07-06T03:51:24Z</updated>
+</entry>
+<entry>
+<title>samast-scheduling-service » PR-22 #1 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/PR-22/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/PR-22:1
+</id>
+<published>2022-07-05T15:37:17Z</published>
+<updated>2022-07-05T15:37:17Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/SAM-134_Injection_schedule_punching_screen_for_OA_generators #2 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252FSAM-134_Injection_schedule_punching_screen_for_OA_generators/2/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2FSAM-134_Injection_schedule_punching_screen_for_OA_generators:2
+</id>
+<published>2022-07-05T15:33:52Z</published>
+<updated>2022-07-05T15:33:52Z</updated>
+</entry>
+<entry>
+<title>re-opc-consumer » master #14 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/re-opc-consumer/job/master/14/"/>
+<id>
+tag:hudson.dev.java.net,2022:re-opc-consumer/master:14
+</id>
+<published>2022-07-05T15:25:32Z</published>
+<updated>2022-07-05T15:25:32Z</updated>
+</entry>
+<entry>
+<title>epm » feature/bleeding-edge #1 (aborted)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/epm/job/feature%252Fbleeding-edge/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:epm/feature%2Fbleeding-edge:1
+</id>
+<published>2022-07-05T14:37:17Z</published>
+<updated>2022-07-05T14:37:17Z</updated>
+</entry>
+<entry>
+<title>epm » master #316 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/epm/job/master/316/"/>
+<id>tag:hudson.dev.java.net,2022:epm/master:316</id>
+<published>2022-07-05T14:36:09Z</published>
+<updated>2022-07-05T14:36:09Z</updated>
+</entry>
+<entry>
+<title>job-tear-down-executor #3284 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/job-tear-down-executor/3284/"/>
+<id>
+tag:hudson.dev.java.net,2022:job-tear-down-executor:3284
+</id>
+<published>2022-07-05T14:34:45Z</published>
+<updated>2022-07-05T14:34:45Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/bleeding-edge #24 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252Fbleeding-edge/24/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2Fbleeding-edge:24
+</id>
+<published>2022-07-05T13:40:17Z</published>
+<updated>2022-07-05T13:40:17Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/SAM-134_Injection_schedule_punching_screen_for_OA_generators #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252FSAM-134_Injection_schedule_punching_screen_for_OA_generators/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2FSAM-134_Injection_schedule_punching_screen_for_OA_generators:1
+</id>
+<published>2022-07-05T13:39:52Z</published>
+<updated>2022-07-05T13:39:52Z</updated>
+</entry>
+<entry>
+<title>samast-open-access-ui » SAM-74 #1 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/SAM-74/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/SAM-74:1
+</id>
+<published>2022-07-05T13:02:00Z</published>
+<updated>2022-07-05T13:02:00Z</updated>
+</entry>
+<entry>
+<title>samast-scheduling-service » PR-21 #4 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/PR-21/4/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/PR-21:4
+</id>
+<published>2022-07-05T12:41:11Z</published>
+<updated>2022-07-05T12:41:11Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #43 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/43/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:43
+</id>
+<published>2022-07-05T12:24:41Z</published>
+<updated>2022-07-05T12:24:41Z</updated>
+</entry>
+<entry>
+<title>samast-open-access-ui » PR-34 #2 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/PR-34/2/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/PR-34:2
+</id>
+<published>2022-07-05T12:13:51Z</published>
+<updated>2022-07-05T12:13:51Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » feature/bleeding-edge #15 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/feature%252Fbleeding-edge/15/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/feature%2Fbleeding-edge:15
+</id>
+<published>2022-07-05T12:10:56Z</published>
+<updated>2022-07-05T12:10:56Z</updated>
+</entry>
+<entry>
+<title>samast-open-access-ui » PR-34 #1 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/PR-34/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/PR-34:1
+</id>
+<published>2022-07-05T11:58:31Z</published>
+<updated>2022-07-05T11:58:31Z</updated>
+</entry>
+<entry>
+<title>
+am-admin-dbconnect » qa #8 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/am-admin-dbconnect/job/qa/8/"/>
+<id>
+tag:hudson.dev.java.net,2022:am-admin-dbconnect/qa:8
+</id>
+<published>2022-07-05T11:53:50Z</published>
+<updated>2022-07-05T11:53:50Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » PR-21 #3 (back to normal)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/PR-21/3/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/PR-21:3
+</id>
+<published>2022-07-05T11:41:15Z</published>
+<updated>2022-07-05T11:41:15Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/SAM-134-2022_q2_06-injection-schedule-pu #3 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252FSAM-134-2022_q2_06-injection-schedule-pu/3/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2FSAM-134-2022_q2_06-injection-schedule-pu:3
+</id>
+<published>2022-07-05T11:38:42Z</published>
+<updated>2022-07-05T11:38:42Z</updated>
+</entry>
+<entry>
+<title>re-opc-consumer » master #13 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/re-opc-consumer/job/master/13/"/>
+<id>
+tag:hudson.dev.java.net,2022:re-opc-consumer/master:13
+</id>
+<published>2022-07-05T11:02:46Z</published>
+<updated>2022-07-05T11:02:46Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » PR-21 #2 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/PR-21/2/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/PR-21:2
+</id>
+<published>2022-07-05T10:53:43Z</published>
+<updated>2022-07-05T10:53:43Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » PR-21 #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/PR-21/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/PR-21:1
+</id>
+<published>2022-07-05T10:43:09Z</published>
+<updated>2022-07-05T10:43:09Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » PR-21 #2 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/PR-21/2/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/PR-21:2
+</id>
+<published>2022-07-05T10:36:49Z</published>
+<updated>2022-07-05T10:36:49Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/2022_Q1_03-Entitlement-screens #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252F2022_Q1_03-Entitlement-screens/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2F2022_Q1_03-Entitlement-screens:1
+</id>
+<published>2022-07-05T10:35:34Z</published>
+<updated>2022-07-05T10:35:34Z</updated>
+</entry>
+<entry>
+<title>samast-entity » feature/bleeding-edge #9 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/samast-entity/job/feature%252Fbleeding-edge/9/"/>
+<id>
+tag:hudson.dev.java.net,2022:samast-entity/feature%2Fbleeding-edge:9
+</id>
+<published>2022-07-05T09:56:09Z</published>
+<updated>2022-07-05T09:56:09Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » feature/bleeding-edge #14 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/feature%252Fbleeding-edge/14/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/feature%2Fbleeding-edge:14
+</id>
+<published>2022-07-05T09:47:58Z</published>
+<updated>2022-07-05T09:47:58Z</updated>
+</entry>
+<entry>
+<title>am-admin-api » qa #13 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/am-admin-api/job/qa/13/"/>
+<id>tag:hudson.dev.java.net,2022:am-admin-api/qa:13</id>
+<published>2022-07-05T09:36:55Z</published>
+<updated>2022-07-05T09:36:55Z</updated>
+</entry>
+<entry>
+<title>samast-scheduling-service » PR-21 #1 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/PR-21/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/PR-21:1
+</id>
+<published>2022-07-05T09:33:55Z</published>
+<updated>2022-07-05T09:33:55Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/SAM-134-2022_q2_06-injection-schedule-pu #2 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252FSAM-134-2022_q2_06-injection-schedule-pu/2/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2FSAM-134-2022_q2_06-injection-schedule-pu:2
+</id>
+<published>2022-07-05T09:31:35Z</published>
+<updated>2022-07-05T09:31:35Z</updated>
+</entry>
+<entry>
+<title>re-opc-consumer » master #12 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/re-opc-consumer/job/master/12/"/>
+<id>
+tag:hudson.dev.java.net,2022:re-opc-consumer/master:12
+</id>
+<published>2022-07-05T08:46:46Z</published>
+<updated>2022-07-05T08:46:46Z</updated>
+</entry>
+<entry>
+<title>samast-entity » PR-14 #1 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/samast-entity/job/PR-14/1/"/>
+<id>tag:hudson.dev.java.net,2022:samast-entity/PR-14:1</id>
+<published>2022-07-05T06:40:39Z</published>
+<updated>2022-07-05T06:40:39Z</updated>
+</entry>
+<entry>
+<title>am-soilingloss-api » qa #76 (back to normal)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/am-soilingloss-api/job/qa/76/"/>
+<id>
+tag:hudson.dev.java.net,2022:am-soilingloss-api/qa:76
+</id>
+<published>2022-07-05T06:39:52Z</published>
+<updated>2022-07-05T06:39:52Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #42 (back to normal)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/42/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:42
+</id>
+<published>2022-07-05T06:36:25Z</published>
+<updated>2022-07-05T06:36:25Z</updated>
+</entry>
+<entry>
+<title>samast-domain-object » PR-20 #3 (back to normal)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/PR-20/3/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/PR-20:3
+</id>
+<published>2022-07-05T06:30:34Z</published>
+<updated>2022-07-05T06:30:34Z</updated>
+</entry>
+<entry>
+<title>am-admin-api » qa #12 (back to normal)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/am-admin-api/job/qa/12/"/>
+<id>tag:hudson.dev.java.net,2022:am-admin-api/qa:12</id>
+<published>2022-07-05T06:20:07Z</published>
+<updated>2022-07-05T06:20:07Z</updated>
+</entry>
+<entry>
+<title>
+am-soilingloss-api » qa #75 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/am-soilingloss-api/job/qa/75/"/>
+<id>
+tag:hudson.dev.java.net,2022:am-soilingloss-api/qa:75
+</id>
+<published>2022-07-05T06:04:48Z</published>
+<updated>2022-07-05T06:04:48Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » PR-20 #2 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/PR-20/2/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/PR-20:2
+</id>
+<published>2022-07-05T05:57:13Z</published>
+<updated>2022-07-05T05:57:13Z</updated>
+</entry>
+<entry>
+<title>am-admin-api » qa #11 (broken since this build)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/am-admin-api/job/qa/11/"/>
+<id>tag:hudson.dev.java.net,2022:am-admin-api/qa:11</id>
+<published>2022-07-05T05:56:21Z</published>
+<updated>2022-07-05T05:56:21Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #41 (broken since build #40)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/41/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:41
+</id>
+<published>2022-07-05T05:46:53Z</published>
+<updated>2022-07-05T05:46:53Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » PR-20 #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/PR-20/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/PR-20:1
+</id>
+<published>2022-07-05T04:40:02Z</published>
+<updated>2022-07-05T04:40:02Z</updated>
+</entry>
+<entry>
+<title>
+i-spfs-solar » current #1490 (broken since build #638)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/i-spfs-solar/job/current/1490/"/>
+<id>
+tag:hudson.dev.java.net,2022:i-spfs-solar/current:1490
+</id>
+<published>2022-07-04T13:43:19Z</published>
+<updated>2022-07-04T13:43:19Z</updated>
+</entry>
+<entry>
+<title>AM-Dashboard » master #75 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/am-dashboard/job/master/75/"/>
+<id>
+tag:hudson.dev.java.net,2022:am-dashboard/master:75
+</id>
+<published>2022-07-04T13:14:13Z</published>
+<updated>2022-07-04T13:14:13Z</updated>
+</entry>
+<entry>
+<title>
+weather » feature/RE50HERTZ-5263-cmv-rcode-input #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/weather/job/feature%252FRE50HERTZ-5263-cmv-rcode-input/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:weather/feature%2FRE50HERTZ-5263-cmv-rcode-input:1
+</id>
+<published>2022-07-04T13:14:10Z</published>
+<updated>2022-07-04T13:14:10Z</updated>
+</entry>
+<entry>
+<title>AM-Dashboard » qa #503 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/am-dashboard/job/qa/503/"/>
+<id>tag:hudson.dev.java.net,2022:am-dashboard/qa:503</id>
+<published>2022-07-04T13:13:35Z</published>
+<updated>2022-07-04T13:13:35Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #40 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/40/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:40
+</id>
+<published>2022-07-04T13:10:30Z</published>
+<updated>2022-07-04T13:10:30Z</updated>
+</entry>
+<entry>
+<title>am-admin-api » qa #10 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/am-admin-api/job/qa/10/"/>
+<id>tag:hudson.dev.java.net,2022:am-admin-api/qa:10</id>
+<published>2022-07-04T12:35:24Z</published>
+<updated>2022-07-04T12:35:24Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/SAM135_SAMAST_Scheduling_05_Injection-Schedule_by_Open_Access_generators #3 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252FSAM135_SAMAST_Scheduling_05_Injection-Schedule_by_Open_Access_generators/3/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2FSAM135_SAMAST_Scheduling_05_Injection-Schedule_by_Open_Access_generators:3
+</id>
+<published>2022-07-04T09:44:53Z</published>
+<updated>2022-07-04T09:44:53Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #39 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/39/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:39
+</id>
+<published>2022-07-04T09:26:38Z</published>
+<updated>2022-07-04T09:26:38Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » PR-31 #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/PR-31/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/PR-31:1
+</id>
+<published>2022-07-04T09:11:53Z</published>
+<updated>2022-07-04T09:11:53Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/bleeding-edge #23 (back to normal)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252Fbleeding-edge/23/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2Fbleeding-edge:23
+</id>
+<published>2022-07-04T09:06:15Z</published>
+<updated>2022-07-04T09:06:15Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » feature/bleeding-edge #13 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/feature%252Fbleeding-edge/13/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/feature%2Fbleeding-edge:13
+</id>
+<published>2022-07-04T09:01:45Z</published>
+<updated>2022-07-04T09:01:45Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #38 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/38/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:38
+</id>
+<published>2022-07-04T08:04:37Z</published>
+<updated>2022-07-04T08:04:37Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/SAM-63_Registration_Dashboard_Approval #3 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252FSAM-63_Registration_Dashboard_Approval/3/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2FSAM-63_Registration_Dashboard_Approval:3
+</id>
+<published>2022-07-04T07:54:37Z</published>
+<updated>2022-07-04T07:54:37Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/bleeding-edge #22 (broken since build #19)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252Fbleeding-edge/22/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2Fbleeding-edge:22
+</id>
+<published>2022-07-04T06:14:30Z</published>
+<updated>2022-07-04T06:14:30Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » SAMAST_Scheduling_02_Punching_coal_position6 #2 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/SAMAST_Scheduling_02_Punching_coal_position6/2/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/SAMAST_Scheduling_02_Punching_coal_position6:2
+</id>
+<published>2022-07-04T06:14:25Z</published>
+<updated>2022-07-04T06:14:25Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » SAMAST_Scheduling_02_Punching_coal_position5 #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/SAMAST_Scheduling_02_Punching_coal_position5/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/SAMAST_Scheduling_02_Punching_coal_position5:1
+</id>
+<published>2022-07-04T06:14:25Z</published>
+<updated>2022-07-04T06:14:25Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » SAMAST_Scheduling_02_Punching_coal_position3 #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/SAMAST_Scheduling_02_Punching_coal_position3/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/SAMAST_Scheduling_02_Punching_coal_position3:1
+</id>
+<published>2022-07-04T06:14:25Z</published>
+<updated>2022-07-04T06:14:25Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » SAMAST_Scheduling_02_Punching_coal_position5 #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/SAMAST_Scheduling_02_Punching_coal_position5/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/SAMAST_Scheduling_02_Punching_coal_position5:1
+</id>
+<published>2022-07-04T06:14:25Z</published>
+<updated>2022-07-04T06:14:25Z</updated>
+</entry>
+<entry>
+<title>
+i-spfs-solar » current #1489 (broken since build #638)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/i-spfs-solar/job/current/1489/"/>
+<id>
+tag:hudson.dev.java.net,2022:i-spfs-solar/current:1489
+</id>
+<published>2022-07-04T04:31:07Z</published>
+<updated>2022-07-04T04:31:07Z</updated>
+</entry>
+<entry>
+<title>samast-scheduling-service » PR-20 #1 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/PR-20/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/PR-20:1
+</id>
+<published>2022-07-02T12:48:12Z</published>
+<updated>2022-07-02T12:48:12Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » PR-14 #7 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/PR-14/7/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/PR-14:7
+</id>
+<published>2022-07-02T11:52:17Z</published>
+<updated>2022-07-02T11:52:17Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » feature/bleeding-edge #12 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/feature%252Fbleeding-edge/12/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/feature%2Fbleeding-edge:12
+</id>
+<published>2022-07-02T11:50:47Z</published>
+<updated>2022-07-02T11:50:47Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » PR-19 #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/PR-19/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/PR-19:1
+</id>
+<published>2022-07-02T11:38:07Z</published>
+<updated>2022-07-02T11:38:07Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » feature/DraftDTO-Changed #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/feature%252FDraftDTO-Changed/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/feature%2FDraftDTO-Changed:1
+</id>
+<published>2022-07-02T11:26:37Z</published>
+<updated>2022-07-02T11:26:37Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/bleeding-edge #21 (broken since build #19)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252Fbleeding-edge/21/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2Fbleeding-edge:21
+</id>
+<published>2022-07-02T11:07:16Z</published>
+<updated>2022-07-02T11:07:16Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #37 (back to normal)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/37/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:37
+</id>
+<published>2022-07-02T11:00:00Z</published>
+<updated>2022-07-02T11:00:00Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #36 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/36/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:36
+</id>
+<published>2022-07-02T10:52:17Z</published>
+<updated>2022-07-02T10:52:17Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/SAM-63_Registration_Dashboard_Approval #2 (back to normal)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252FSAM-63_Registration_Dashboard_Approval/2/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2FSAM-63_Registration_Dashboard_Approval:2
+</id>
+<published>2022-07-02T10:51:12Z</published>
+<updated>2022-07-02T10:51:12Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/bleeding-edge #20 (broken since build #19)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252Fbleeding-edge/20/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2Fbleeding-edge:20
+</id>
+<published>2022-07-02T10:38:03Z</published>
+<updated>2022-07-02T10:38:03Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/bleeding-edge #19 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252Fbleeding-edge/19/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2Fbleeding-edge:19
+</id>
+<published>2022-07-02T10:28:51Z</published>
+<updated>2022-07-02T10:28:51Z</updated>
+</entry>
+<entry>
+<title>
+re-config-mgmt » feature/bleeding-edge #2 (back to normal)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/re-config-mgmt1/job/feature%252Fbleeding-edge/2/"/>
+<id>
+tag:hudson.dev.java.net,2022:re-config-mgmt1/feature%2Fbleeding-edge:2
+</id>
+<published>2022-07-02T10:28:32Z</published>
+<updated>2022-07-02T10:28:32Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/SAM-63_Registration_Dashboard_Approval #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252FSAM-63_Registration_Dashboard_Approval/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2FSAM-63_Registration_Dashboard_Approval:1
+</id>
+<published>2022-07-02T10:17:00Z</published>
+<updated>2022-07-02T10:17:00Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » PR-17 #5 (broken since build #2)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/PR-17/5/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/PR-17:5
+</id>
+<published>2022-07-02T10:12:40Z</published>
+<updated>2022-07-02T10:12:40Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » PR-13 #16 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/PR-13/16/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/PR-13:16
+</id>
+<published>2022-07-02T10:11:40Z</published>
+<updated>2022-07-02T10:11:40Z</updated>
+</entry>
+<entry>
+<title>
+i-spfs-solar » bugfix/RE50HERTZ-5788-CMV-Sorting-Issue #4 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/i-spfs-solar/job/bugfix%252FRE50HERTZ-5788-CMV-Sorting-Issue/4/"/>
+<id>
+tag:hudson.dev.java.net,2022:i-spfs-solar/bugfix%2FRE50HERTZ-5788-CMV-Sorting-Issue:4
+</id>
+<published>2022-07-02T09:29:29Z</published>
+<updated>2022-07-02T09:29:29Z</updated>
+</entry>
+<entry>
+<title>
+re-config-mgmt » master #6 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/re-config-mgmt1/job/master/6/"/>
+<id>
+tag:hudson.dev.java.net,2022:re-config-mgmt1/master:6
+</id>
+<published>2022-07-02T09:25:41Z</published>
+<updated>2022-07-02T09:25:41Z</updated>
+</entry>
+<entry>
+<title>
+re-config-mgmt » feature/bleeding-edge #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/re-config-mgmt1/job/feature%252Fbleeding-edge/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:re-config-mgmt1/feature%2Fbleeding-edge:1
+</id>
+<published>2022-07-02T09:25:24Z</published>
+<updated>2022-07-02T09:25:24Z</updated>
+</entry>
+<entry>
+<title>
+re-config-mgmt » bugfix/RE50HERTZ-5724-2022_q2_04-issue-in-ui-management #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/re-config-mgmt1/job/bugfix%252FRE50HERTZ-5724-2022_q2_04-issue-in-ui-management/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:re-config-mgmt1/bugfix%2FRE50HERTZ-5724-2022_q2_04-issue-in-ui-management:1
+</id>
+<published>2022-07-02T09:25:18Z</published>
+<updated>2022-07-02T09:25:18Z</updated>
+</entry>
+<entry>
+<title>
+re-config-mgmt » bugfix/RE50HERTZ-5724-2022_q2_04-issue-in-seaching-for-parsing-rule #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/re-config-mgmt1/job/bugfix%252FRE50HERTZ-5724-2022_q2_04-issue-in-seaching-for-parsing-rule/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:re-config-mgmt1/bugfix%2FRE50HERTZ-5724-2022_q2_04-issue-in-seaching-for-parsing-rule:1
+</id>
+<published>2022-07-02T09:25:14Z</published>
+<updated>2022-07-02T09:25:14Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #35 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/35/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:35
+</id>
+<published>2022-07-02T09:23:34Z</published>
+<updated>2022-07-02T09:23:34Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #34 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/34/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:34
+</id>
+<published>2022-07-02T09:14:26Z</published>
+<updated>2022-07-02T09:14:26Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » PR-19 #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/PR-19/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/PR-19:1
+</id>
+<published>2022-07-02T09:05:34Z</published>
+<updated>2022-07-02T09:05:34Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » PR-14 #6 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/PR-14/6/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/PR-14:6
+</id>
+<published>2022-07-02T08:59:24Z</published>
+<updated>2022-07-02T08:59:24Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » feature/bleeding-edge #11 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/feature%252Fbleeding-edge/11/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/feature%2Fbleeding-edge:11
+</id>
+<published>2022-07-02T08:58:49Z</published>
+<updated>2022-07-02T08:58:49Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #33 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/33/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:33
+</id>
+<published>2022-07-02T08:34:19Z</published>
+<updated>2022-07-02T08:34:19Z</updated>
+</entry>
+<entry>
+<title>samast-open-access-ui » PR-27 #1 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/PR-27/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/PR-27:1
+</id>
+<published>2022-07-02T07:59:19Z</published>
+<updated>2022-07-02T07:59:19Z</updated>
+</entry>
+<entry>
+<title>re-config-mgmt-ui » bleeding-edge #233 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/re-config-mgmt-ui/job/bleeding-edge/233/"/>
+<id>
+tag:hudson.dev.java.net,2022:re-config-mgmt-ui/bleeding-edge:233
+</id>
+<published>2022-07-02T07:41:03Z</published>
+<updated>2022-07-02T07:41:03Z</updated>
+</entry>
+<entry>
+<title>re-config-mgmt » master #5 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/re-config-mgmt1/job/master/5/"/>
+<id>
+tag:hudson.dev.java.net,2022:re-config-mgmt1/master:5
+</id>
+<published>2022-07-02T07:34:42Z</published>
+<updated>2022-07-02T07:34:42Z</updated>
+</entry>
+<entry>
+<title>re-db-impl » master #14 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/re-db-impl/job/master/14/"/>
+<id>tag:hudson.dev.java.net,2022:re-db-impl/master:14</id>
+<published>2022-07-02T07:33:51Z</published>
+<updated>2022-07-02T07:33:51Z</updated>
+</entry>
+<entry>
+<title>re-db-api » master #11 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/re-db-api/job/master/11/"/>
+<id>tag:hudson.dev.java.net,2022:re-db-api/master:11</id>
+<published>2022-07-02T07:32:36Z</published>
+<updated>2022-07-02T07:32:36Z</updated>
+</entry>
+<entry>
+<title>re-domain-objects » master #40 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/re-domain-objects/job/master/40/"/>
+<id>
+tag:hudson.dev.java.net,2022:re-domain-objects/master:40
+</id>
+<published>2022-07-02T07:29:47Z</published>
+<updated>2022-07-02T07:29:47Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #32 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/32/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:32
+</id>
+<published>2022-07-02T04:46:09Z</published>
+<updated>2022-07-02T04:46:09Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » PR-26 #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/PR-26/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/PR-26:1
+</id>
+<published>2022-07-02T04:33:34Z</published>
+<updated>2022-07-02T04:33:34Z</updated>
+</entry>
+<entry>
+<title>
+am-admin-dbconnect » qa #7 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/am-admin-dbconnect/job/qa/7/"/>
+<id>
+tag:hudson.dev.java.net,2022:am-admin-dbconnect/qa:7
+</id>
+<published>2022-07-02T04:02:59Z</published>
+<updated>2022-07-02T04:02:59Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/SAM-106-2022_q2_04_Declare_capacity_punching_screens_for_SGS_Hydro_generators #13 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252FSAM-106-2022_q2_04_Declare_capacity_punching_screens_for_SGS_Hydro_generators/13/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2FSAM-106-2022_q2_04_Declare_capacity_punching_screens_for_SGS_Hydro_generators:13
+</id>
+<published>2022-07-01T14:07:32Z</published>
+<updated>2022-07-01T14:07:32Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-service » feature/bleeding-edge #4 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/samast-open-access-service/job/feature%252Fbleeding-edge/4/"/>
+<id>
+tag:hudson.dev.java.net,2022:samast-open-access-service/feature%2Fbleeding-edge:4
+</id>
+<published>2022-07-01T13:07:25Z</published>
+<updated>2022-07-01T13:07:25Z</updated>
+</entry>
+<entry>
+<title>samast-entity » feature/bleeding-edge #8 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/samast-entity/job/feature%252Fbleeding-edge/8/"/>
+<id>
+tag:hudson.dev.java.net,2022:samast-entity/feature%2Fbleeding-edge:8
+</id>
+<published>2022-07-01T12:59:26Z</published>
+<updated>2022-07-01T12:59:26Z</updated>
+</entry>
+<entry>
+<title>samast-domain-object » PR-18 #1 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/PR-18/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/PR-18:1
+</id>
+<published>2022-07-01T12:53:11Z</published>
+<updated>2022-07-01T12:53:11Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » feature/sam-135-2022_Q2_06CodingInjection-schedule-punching-screen-for-Open-access-generators #2 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/feature%252Fsam-135-2022_Q2_06CodingInjection-schedule-punching-screen-for-Open-access-generators/2/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/feature%2Fsam-135-2022_Q2_06CodingInjection-schedule-punching-screen-for-Open-access-generators:2
+</id>
+<published>2022-07-01T12:51:56Z</published>
+<updated>2022-07-01T12:51:56Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/SAM135_SAMAST_Scheduling_05_Injection-Schedule_by_Open_Access_generators #2 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252FSAM135_SAMAST_Scheduling_05_Injection-Schedule_by_Open_Access_generators/2/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2FSAM135_SAMAST_Scheduling_05_Injection-Schedule_by_Open_Access_generators:2
+</id>
+<published>2022-07-01T12:51:21Z</published>
+<updated>2022-07-01T12:51:21Z</updated>
+</entry>
+<entry>
+<title>
+samast-entity » feature/sam-135-2022_Q2_06CodingInjection-schedule-punching-screen-for-Open-access-generators #2 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/samast-entity/job/feature%252Fsam-135-2022_Q2_06CodingInjection-schedule-punching-screen-for-Open-access-generators/2/"/>
+<id>
+tag:hudson.dev.java.net,2022:samast-entity/feature%2Fsam-135-2022_Q2_06CodingInjection-schedule-punching-screen-for-Open-access-generators:2
+</id>
+<published>2022-07-01T12:40:31Z</published>
+<updated>2022-07-01T12:40:31Z</updated>
+</entry>
+<entry>
+<title>
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/samast-util/job/feature%252Fbleeding-edge/2/"/>
+<id>
+tag:hudson.dev.java.net,2022:samast-util/feature%2Fbleeding-edge:2
+</id>
+<published>2022-07-01T12:31:16Z</published>
+<updated>2022-07-01T12:31:16Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » PR-14 #5 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/PR-14/5/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/PR-14:5
+</id>
+<published>2022-07-01T12:20:25Z</published>
+<updated>2022-07-01T12:20:25Z</updated>
+</entry>
+<entry>
+<title>samast-util » PR-2 #1 (broken since this build)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/samast-util/job/PR-2/1/"/>
+<id>tag:hudson.dev.java.net,2022:samast-util/PR-2:1</id>
+<published>2022-07-01T12:19:40Z</published>
+<updated>2022-07-01T12:19:40Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » feature/bleeding-edge #10 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/feature%252Fbleeding-edge/10/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/feature%2Fbleeding-edge:10
+</id>
+<published>2022-07-01T12:18:40Z</published>
+<updated>2022-07-01T12:18:40Z</updated>
+</entry>
+<entry>
+<title>
+i-spfs-solar » bugfix/RE50HERTZ-5788-CMV-Sorting-Issue #3 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/i-spfs-solar/job/bugfix%252FRE50HERTZ-5788-CMV-Sorting-Issue/3/"/>
+<id>
+tag:hudson.dev.java.net,2022:i-spfs-solar/bugfix%2FRE50HERTZ-5788-CMV-Sorting-Issue:3
+</id>
+<published>2022-07-01T12:12:05Z</published>
+<updated>2022-07-01T12:12:05Z</updated>
+</entry>
+<entry>
+<title>
+i-spfs-solar » current #1488 (broken since build #638)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/i-spfs-solar/job/current/1488/"/>
+<id>
+tag:hudson.dev.java.net,2022:i-spfs-solar/current:1488
+</id>
+<published>2022-07-01T12:11:45Z</published>
+<updated>2022-07-01T12:11:45Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #31 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/31/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:31
+</id>
+<published>2022-07-01T11:56:40Z</published>
+<updated>2022-07-01T11:56:40Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/bleeding-edge #17 (back to normal)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252Fbleeding-edge/17/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2Fbleeding-edge:17
+</id>
+<published>2022-07-01T11:56:07Z</published>
+<updated>2022-07-01T11:56:07Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » feature/bleeding-edge #9 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/feature%252Fbleeding-edge/9/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/feature%2Fbleeding-edge:9
+</id>
+<published>2022-07-01T11:53:56Z</published>
+<updated>2022-07-01T11:53:56Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/bleeding-edge #16 (broken since build #15)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252Fbleeding-edge/16/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2Fbleeding-edge:16
+</id>
+<published>2022-07-01T11:50:41Z</published>
+<updated>2022-07-01T11:50:41Z</updated>
+</entry>
+<entry>
+<title>
+samast-entity » feature/sam-135-2022_Q2_06CodingInjection-schedule-punching-screen-for-Open-access-generators #1 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/samast-entity/job/feature%252Fsam-135-2022_Q2_06CodingInjection-schedule-punching-screen-for-Open-access-generators/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:samast-entity/feature%2Fsam-135-2022_Q2_06CodingInjection-schedule-punching-screen-for-Open-access-generators:1
+</id>
+<published>2022-07-01T11:50:05Z</published>
+<updated>2022-07-01T11:50:05Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » PR-13 #13 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/PR-13/13/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/PR-13:13
+</id>
+<published>2022-07-01T11:47:25Z</published>
+<updated>2022-07-01T11:47:25Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » PR-17 #2 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/PR-17/2/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/PR-17:2
+</id>
+<published>2022-07-01T11:47:05Z</published>
+<updated>2022-07-01T11:47:05Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/bleeding-edge #15 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252Fbleeding-edge/15/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2Fbleeding-edge:15
+</id>
+<published>2022-07-01T11:46:00Z</published>
+<updated>2022-07-01T11:46:00Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » feature/sam-135-2022_Q2_06CodingInjection-schedule-punching-screen-for-Open-access-generators #1 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/feature%252Fsam-135-2022_Q2_06CodingInjection-schedule-punching-screen-for-Open-access-generators/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/feature%2Fsam-135-2022_Q2_06CodingInjection-schedule-punching-screen-for-Open-access-generators:1
+</id>
+<published>2022-07-01T11:36:45Z</published>
+<updated>2022-07-01T11:36:45Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » PR-14 #4 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/PR-14/4/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/PR-14:4
+</id>
+<published>2022-07-01T11:20:30Z</published>
+<updated>2022-07-01T11:20:30Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » feature/bleeding-edge #8 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/feature%252Fbleeding-edge/8/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/feature%2Fbleeding-edge:8
+</id>
+<published>2022-07-01T11:19:35Z</published>
+<updated>2022-07-01T11:19:35Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/SAM135_SAMAST_Scheduling_05_Injection-Schedule_by_Open_Access_generators #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252FSAM135_SAMAST_Scheduling_05_Injection-Schedule_by_Open_Access_generators/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2FSAM135_SAMAST_Scheduling_05_Injection-Schedule_by_Open_Access_generators:1
+</id>
+<published>2022-07-01T11:12:10Z</published>
+<updated>2022-07-01T11:12:10Z</updated>
+</entry>
+<entry>
+<title>samast-scheduling-service » PR-18 #1 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/PR-18/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/PR-18:1
+</id>
+<published>2022-07-01T11:04:58Z</published>
+<updated>2022-07-01T11:04:58Z</updated>
+</entry>
+<entry>
+<title>Auth » feature/bleeding-edge #24 (back to normal)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/sel/job/feature%252Fbleeding-edge/24/"/>
+<id>
+tag:hudson.dev.java.net,2022:sel/feature%2Fbleeding-edge:24
+</id>
+<published>2022-07-01T10:25:24Z</published>
+<updated>2022-07-01T10:25:24Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/SAM-106-2022_q2_04_Declare_capacity_punching_screens_for_SGS_Hydro_generators #12 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252FSAM-106-2022_q2_04_Declare_capacity_punching_screens_for_SGS_Hydro_generators/12/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2FSAM-106-2022_q2_04_Declare_capacity_punching_screens_for_SGS_Hydro_generators:12
+</id>
+<published>2022-07-01T10:22:33Z</published>
+<updated>2022-07-01T10:22:33Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #30 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/30/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:30
+</id>
+<published>2022-07-01T10:12:53Z</published>
+<updated>2022-07-01T10:12:53Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #29 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/29/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:29
+</id>
+<published>2022-07-01T10:01:54Z</published>
+<updated>2022-07-01T10:01:54Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » PR-24 #2 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/PR-24/2/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/PR-24:2
+</id>
+<published>2022-07-01T09:54:38Z</published>
+<updated>2022-07-01T09:54:38Z</updated>
+</entry>
+<entry>
+<title>samast-open-access-ui » PR-24 #1 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/PR-24/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/PR-24:1
+</id>
+<published>2022-07-01T09:26:57Z</published>
+<updated>2022-07-01T09:26:57Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/SAM-106-2022_q2_04_Declare_capacity_punching_screens_for_SGS_Hydro_generators #11 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252FSAM-106-2022_q2_04_Declare_capacity_punching_screens_for_SGS_Hydro_generators/11/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2FSAM-106-2022_q2_04_Declare_capacity_punching_screens_for_SGS_Hydro_generators:11
+</id>
+<published>2022-07-01T09:22:31Z</published>
+<updated>2022-07-01T09:22:31Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/SAM-34-UI_Setup #7 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252FSAM-34-UI_Setup/7/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2FSAM-34-UI_Setup:7
+</id>
+<published>2022-07-01T09:09:37Z</published>
+<updated>2022-07-01T09:09:37Z</updated>
+</entry>
+<entry>
+<title>am-soilingloss-api » qa #74 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/am-soilingloss-api/job/qa/74/"/>
+<id>
+tag:hudson.dev.java.net,2022:am-soilingloss-api/qa:74
+</id>
+<published>2022-07-01T08:05:37Z</published>
+<updated>2022-07-01T08:05:37Z</updated>
+</entry>
+<entry>
+<title>am-soilingloss-api » qa #73 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/am-soilingloss-api/job/qa/73/"/>
+<id>
+tag:hudson.dev.java.net,2022:am-soilingloss-api/qa:73
+</id>
+<published>2022-07-01T07:55:50Z</published>
+<updated>2022-07-01T07:55:50Z</updated>
+</entry>
+<entry>
+<title>am-soilingloss-api » qa #72 (aborted)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/am-soilingloss-api/job/qa/72/"/>
+<id>
+tag:hudson.dev.java.net,2022:am-soilingloss-api/qa:72
+</id>
+<published>2022-07-01T07:55:50Z</published>
+<updated>2022-07-01T07:55:50Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/SAM-106-2022_q2_04_Declare_capacity_punching_screens_for_SGS_Hydro_generators #10 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252FSAM-106-2022_q2_04_Declare_capacity_punching_screens_for_SGS_Hydro_generators/10/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2FSAM-106-2022_q2_04_Declare_capacity_punching_screens_for_SGS_Hydro_generators:10
+</id>
+<published>2022-07-01T07:53:14Z</published>
+<updated>2022-07-01T07:53:14Z</updated>
+</entry>
+<entry>
+<title>samast-domain-object » PR-16 #1 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/PR-16/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/PR-16:1
+</id>
+<published>2022-07-01T07:50:07Z</published>
+<updated>2022-07-01T07:50:07Z</updated>
+</entry>
+<entry>
+<title>am-alarm-config » qa #3 (back to normal)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/am-alarm-config/job/qa/3/"/>
+<id>tag:hudson.dev.java.net,2022:am-alarm-config/qa:3</id>
+<published>2022-07-01T07:47:46Z</published>
+<updated>2022-07-01T07:47:46Z</updated>
+</entry>
+<entry>
+<title>am-maint-dashboard-api » qa #5 (back to normal)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/am-maint-dashboard-api/job/qa/5/"/>
+<id>
+tag:hudson.dev.java.net,2022:am-maint-dashboard-api/qa:5
+</id>
+<published>2022-07-01T07:37:55Z</published>
+<updated>2022-07-01T07:37:55Z</updated>
+</entry>
+<entry>
+<title>
+samast-util » feature/SAM-34-SLDC-Registration-Dashboard #1 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/samast-util/job/feature%252FSAM-34-SLDC-Registration-Dashboard/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:samast-util/feature%2FSAM-34-SLDC-Registration-Dashboard:1
+</id>
+<published>2022-07-01T06:15:52Z</published>
+<updated>2022-07-01T06:15:52Z</updated>
+</entry>
+<entry>
+<title>
+am-ops-dashboard-service » qa #36 (broken since build #36)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/am-ops-dashboard-service/job/qa/36/"/>
+<id>
+tag:hudson.dev.java.net,2022:am-ops-dashboard-service/qa:36
+</id>
+<published>2022-07-01T05:51:58Z</published>
+<updated>2022-07-01T05:51:58Z</updated>
+</entry>
+<entry>
+<title>am-ops-dashboard-service » qa #35 (aborted)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/am-ops-dashboard-service/job/qa/35/"/>
+<id>
+tag:hudson.dev.java.net,2022:am-ops-dashboard-service/qa:35
+</id>
+<published>2022-07-01T05:51:58Z</published>
+<updated>2022-07-01T05:51:58Z</updated>
+</entry>
+<entry>
+<title>re-processing-engine » PR-70 #2 (back to normal)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/re-kafka-connector/job/PR-70/2/"/>
+<id>
+tag:hudson.dev.java.net,2022:re-kafka-connector/PR-70:2
+</id>
+<published>2022-06-30T18:32:18Z</published>
+<updated>2022-06-30T18:32:18Z</updated>
+</entry>
+<entry>
+<title>
+re-processing-engine » feature/bleeding-edge #66 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/re-kafka-connector/job/feature%252Fbleeding-edge/66/"/>
+<id>
+tag:hudson.dev.java.net,2022:re-kafka-connector/feature%2Fbleeding-edge:66
+</id>
+<published>2022-06-30T18:31:08Z</published>
+<updated>2022-06-30T18:31:08Z</updated>
+</entry>
+<entry>
+<title>
+i-spfs-solar » current #1487 (broken since build #638)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/i-spfs-solar/job/current/1487/"/>
+<id>
+tag:hudson.dev.java.net,2022:i-spfs-solar/current:1487
+</id>
+<published>2022-06-30T12:59:54Z</published>
+<updated>2022-06-30T12:59:54Z</updated>
+</entry>
+<entry>
+<title>
+i-spfs-solar » bugfix/RE50HERTZ-5788-CMV-Sorting-Issue #2 (broken for a long time)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/i-spfs-solar/job/bugfix%252FRE50HERTZ-5788-CMV-Sorting-Issue/2/"/>
+<id>
+tag:hudson.dev.java.net,2022:i-spfs-solar/bugfix%2FRE50HERTZ-5788-CMV-Sorting-Issue:2
+</id>
+<published>2022-06-30T12:59:54Z</published>
+<updated>2022-06-30T12:59:54Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #28 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/28/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:28
+</id>
+<published>2022-06-30T12:06:15Z</published>
+<updated>2022-06-30T12:06:15Z</updated>
+</entry>
+<entry>
+<title>
+i-spfs-solar » current #1486 (broken since build #638)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/i-spfs-solar/job/current/1486/"/>
+<id>
+tag:hudson.dev.java.net,2022:i-spfs-solar/current:1486
+</id>
+<published>2022-06-30T11:56:38Z</published>
+<updated>2022-06-30T11:56:38Z</updated>
+</entry>
+<entry>
+<title>
+i-spfs-solar » bugfix/RE50HERTZ-5788-CMV-Sorting-Issue #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/i-spfs-solar/job/bugfix%252FRE50HERTZ-5788-CMV-Sorting-Issue/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:i-spfs-solar/bugfix%2FRE50HERTZ-5788-CMV-Sorting-Issue:1
+</id>
+<published>2022-06-30T11:56:31Z</published>
+<updated>2022-06-30T11:56:31Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #27 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/27/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:27
+</id>
+<published>2022-06-30T10:36:45Z</published>
+<updated>2022-06-30T10:36:45Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/SAM-34-UI_Setup #6 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252FSAM-34-UI_Setup/6/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2FSAM-34-UI_Setup:6
+</id>
+<published>2022-06-30T10:23:10Z</published>
+<updated>2022-06-30T10:23:10Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/SAM-74-2022_q1_03-share-allocation-screen-controller #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252FSAM-74-2022_q1_03-share-allocation-screen-controller/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2FSAM-74-2022_q1_03-share-allocation-screen-controller:1
+</id>
+<published>2022-06-30T09:21:44Z</published>
+<updated>2022-06-30T09:21:44Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #26 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/26/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:26
+</id>
+<published>2022-06-30T09:12:29Z</published>
+<updated>2022-06-30T09:12:29Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » feature/SAM-1152022_Q2_04Coal_position_punch_by_SGS_thermal_coal_generators #1 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/feature%252FSAM-1152022_Q2_04Coal_position_punch_by_SGS_thermal_coal_generators/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/feature%2FSAM-1152022_Q2_04Coal_position_punch_by_SGS_thermal_coal_generators:1
+</id>
+<published>2022-06-30T09:01:37Z</published>
+<updated>2022-06-30T09:01:37Z</updated>
+</entry>
+<entry>
+<title>am-admin-api » qa #9 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/am-admin-api/job/qa/9/"/>
+<id>tag:hudson.dev.java.net,2022:am-admin-api/qa:9</id>
+<published>2022-06-30T09:00:10Z</published>
+<updated>2022-06-30T09:00:10Z</updated>
+</entry>
+<entry>
+<title>samast-open-access-ui » PR-21 #1 (stable)</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/PR-21/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/PR-21:1
+</id>
+<published>2022-06-30T08:53:19Z</published>
+<updated>2022-06-30T08:53:19Z</updated>
+</entry>
+<entry>
+<title>
+samast-open-access-ui » feature/bleeding-edge #25 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/open-access-ui/job/feature%252Fbleeding-edge/25/"/>
+<id>
+tag:hudson.dev.java.net,2022:open-access-ui/feature%2Fbleeding-edge:25
+</id>
+<published>2022-06-30T08:05:04Z</published>
+<updated>2022-06-30T08:05:04Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/SAM-74-2022_q1_03-share-allocation-screen #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252FSAM-74-2022_q1_03-share-allocation-screen/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2FSAM-74-2022_q1_03-share-allocation-screen:1
+</id>
+<published>2022-06-30T07:30:19Z</published>
+<updated>2022-06-30T07:30:19Z</updated>
+</entry>
+<entry>
+<title>
+samast-domain-object » feature/SAM-152-2022_q2_06-sldc-view-edit-and-ap #1 (stable)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/smast-domain-object/job/feature%252FSAM-152-2022_q2_06-sldc-view-edit-and-ap/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:smast-domain-object/feature%2FSAM-152-2022_q2_06-sldc-view-edit-and-ap:1
+</id>
+<published>2022-06-30T07:21:44Z</published>
+<updated>2022-06-30T07:21:44Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/SAM-134-2022_q2_06-injection-schedule-pu #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252FSAM-134-2022_q2_06-injection-schedule-pu/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2FSAM-134-2022_q2_06-injection-schedule-pu:1
+</id>
+<published>2022-06-30T07:06:34Z</published>
+<updated>2022-06-30T07:06:34Z</updated>
+</entry>
+<entry>
+<title>
+samast-scheduling-service » feature/SAM-152-2022_q2_06-sldc-view-edit-and-ap #1 (broken since this build)
+</title>
+<link rel="alternate" type="text/html" href="https://ci.50hertz.in/job/scheduling-service/job/feature%252FSAM-152-2022_q2_06-sldc-view-edit-and-ap/1/"/>
+<id>
+tag:hudson.dev.java.net,2022:scheduling-service/feature%2FSAM-152-2022_q2_06-sldc-view-edit-and-ap:1
+</id>
+<published>2022-06-30T04:35:33Z</published>
+<updated>2022-06-30T04:35:33Z</updated>
+</entry>
+</feed>
